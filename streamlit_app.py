@@ -4,9 +4,11 @@ import tempfile
 import re
 
 # Set the page configuration for wide mode
-st.set_page_config(layout="wide",
-                   page_title='GDP dashboard',
-                   page_icon=':heavy_plus_sign:', # This is an emoji shortcode. Could be a URL too.)
+st.set_page_config(
+    layout='wide',
+    page_title='GDP dashboard',
+    page_icon=':heavy_plus_sign:'  # This is an emoji shortcode. Could be a URL too.
+)
 
 # Function to strip HTML tags
 def strip_html(html_text):
