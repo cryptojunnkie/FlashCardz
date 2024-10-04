@@ -1,0 +1,12 @@
+[server]
+enableCORS = false
+
+[theme]
+primaryColor = "#F39C12"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F7F7"
+textColor = "#000000"
+
+[layout]
+# Set the layout to wide mode
+mode = "wide"
