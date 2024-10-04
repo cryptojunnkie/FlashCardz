@@ -92,7 +92,7 @@ flashcards = {
         )
     },
     "EXAM NOTE" :{  # New section for section summary
-        "Remember the main components of the CIA triad security model are confidentiality, integrity, and availability. Also know that nonrepudiation is the assurance that something cannot be denied by someone.": (
+        "Remember the main components of the CIA triad security model are <h1>confidentiality, integrity, and availability</h1>. Also know that nonrepudiation is the assurance that something cannot be denied by someone.": (
             ""
         )
     },
