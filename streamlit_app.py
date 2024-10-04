@@ -91,7 +91,7 @@ flashcards = {
             "</ul>"
         )
     },
-    "EXAM NOTE" {  # New section for section summary
+    "EXAM NOTE" :{  # New section for section summary
         "": (
             "<ul>"
             "<li>Remember the main components of the CIA triad security model are confidentiality, integrity, and availability. Also know that nonrepudiation is the assurance that something cannot be denied by someone.</li>"
